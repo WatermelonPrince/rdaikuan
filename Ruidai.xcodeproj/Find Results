@@ -1,0 +1,916 @@
+Searching 5 files for "Lottery"
+
+/Users/liuhong/Documents/work/git/loan-ios/Loan.xcodeproj/project.pbxproj:
+    8  
+    9  /* Begin PBXBuildFile section */
+   10: 		010A334E1E4D5C4A009DAAF2 /* LotteryMainBaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 010A334D1E4D5C4A009DAAF2 /* LotteryMainBaseViewController.swift */; };
+   11  		010A33501E4D6119009DAAF2 /* SSQMainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 010A334F1E4D6119009DAAF2 /* SSQMainViewController.swift */; };
+   12: 		010A33531E4D6461009DAAF2 /* LotteryMainBaseDropDownButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 010A33521E4D6461009DAAF2 /* LotteryMainBaseDropDownButton.swift */; };
+   13: 		010A33591E4DA99A009DAAF2 /* LotteryMainBaseDropDownView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 010A33581E4DA99A009DAAF2 /* LotteryMainBaseDropDownView.swift */; };
+   14  		010A33611E51A7FA009DAAF2 /* DPCDantuoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 010A33601E51A7FA009DAAF2 /* DPCDantuoViewController.swift */; };
+   15  		010A33631E51A8F8009DAAF2 /* SSQDantuoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 010A33621E51A8F8009DAAF2 /* SSQDantuoViewController.swift */; };
+   ..
+   19  		010A336C1E5300D7009DAAF2 /* DLTOrderBottomMultipleBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 010A336B1E5300D7009DAAF2 /* DLTOrderBottomMultipleBarView.swift */; };
+   20  		010A336E1E530107009DAAF2 /* DLTOrderBottomMultipleBarMainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 010A336D1E530107009DAAF2 /* DLTOrderBottomMultipleBarMainView.swift */; };
+   21: 		010A33721E544673009DAAF2 /* LotteryCheckBoxButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 010A33711E544673009DAAF2 /* LotteryCheckBoxButton.swift */; };
+   22  		010A33741E545DFA009DAAF2 /* DLTMainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 010A33731E545DFA009DAAF2 /* DLTMainViewController.swift */; };
+   23  		010A33761E545F13009DAAF2 /* DLTDantuoViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 010A33751E545F13009DAAF2 /* DLTDantuoViewController.swift */; };
+   ..
+   26  		011187831E949042001B1B89 /* MineOrderDetailTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 011187821E949042001B1B89 /* MineOrderDetailTableViewCell.swift */; };
+   27  		011187851E95DDA9001B1B89 /* IdentityVerifyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 011187841E95DDA9001B1B89 /* IdentityVerifyViewController.swift */; };
+   28: 		011187871E95DFC0001B1B89 /* LotteryBaseScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 011187861E95DFC0001B1B89 /* LotteryBaseScrollViewController.swift */; };
+   29  		011187891E962E81001B1B89 /* WithdrawViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 011187881E962E81001B1B89 /* WithdrawViewController.swift */; };
+   30  		0111878B1E9630D8001B1B89 /* WithdrawTextFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0111878A1E9630D8001B1B89 /* WithdrawTextFieldView.swift */; };
+   ..
+   35  		0127ADF81E4465360012C728 /* TTTAttributedLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 0127ADF71E4465360012C728 /* TTTAttributedLabel.m */; };
+   36  		0127AE0A1E44B9C80012C728 /* ViewUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0127AE091E44B9C80012C728 /* ViewUtil.swift */; };
+   37: 		0127AE0E1E45D6D20012C728 /* LotteryBaseNavigationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0127AE0D1E45D6D20012C728 /* LotteryBaseNavigationController.swift */; };
+   38  		0127AE121E45DADF0012C728 /* UIAlertController+Window.m in Sources */ = {isa = PBXBuildFile; fileRef = 0127AE111E45DADF0012C728 /* UIAlertController+Window.m */; };
+   39: 		0127AE141E45E46B0012C728 /* LotteryOrderViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0127AE131E45E46A0012C728 /* LotteryOrderViewController.swift */; };
+   40: 		0127AE161E462F3B0012C728 /* LotteryUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0127AE151E462F3B0012C728 /* LotteryUtil.swift */; };
+   41  		0127AE211E48209F0012C728 /* OrderBottomInfoBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0127AE201E48209F0012C728 /* OrderBottomInfoBarView.swift */; };
+   42  		0127AE231E4825180012C728 /* OrderBottomMultipleBarMainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0127AE221E4825180012C728 /* OrderBottomMultipleBarMainView.swift */; };
+   ..
+   59  		012AD2331E4B38E9004153BE /* SSQOrderBottomMultipleBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012AD2321E4B38E9004153BE /* SSQOrderBottomMultipleBarView.swift */; };
+   60  		012AD2351E4B3917004153BE /* SSQOrderBottomMultipleBarMainView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012AD2341E4B3917004153BE /* SSQOrderBottomMultipleBarMainView.swift */; };
+   61: 		012AD23F1E4B42FE004153BE /* LotteryBoardBaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012AD23E1E4B42FE004153BE /* LotteryBoardBaseViewController.swift */; };
+   62  		012AD2411E4B46C3004153BE /* DPCNormalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012AD2401E4B46C3004153BE /* DPCNormalViewController.swift */; };
+   63  		012AD2431E4B5215004153BE /* DLTNormalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012AD2421E4B5215004153BE /* DLTNormalViewController.swift */; };
+   ..
+   66  		012CFB0E1EA7045C002394A3 /* ChargeBaseTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012CFB0D1EA7045C002394A3 /* ChargeBaseTableViewCell.swift */; };
+   67  		012CFB101EA71A96002394A3 /* ChargeAmountTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012CFB0F1EA71A96002394A3 /* ChargeAmountTableViewCell.swift */; };
+   68: 		012CFB121EA76ED3002394A3 /* LotteryBaseSelectionButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012CFB111EA76ED3002394A3 /* LotteryBaseSelectionButton.swift */; };
+   69: 		012CFB141EA8557E002394A3 /* LotteryBaseMagicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012CFB131EA8557E002394A3 /* LotteryBaseMagicViewController.swift */; };
+   70  		012CFB161EA85FF1002394A3 /* RedPacketMagicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012CFB151EA85FF1002394A3 /* RedPacketMagicViewController.swift */; };
+   71  		012CFB181EA868E3002394A3 /* RedPacketTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012CFB171EA868E3002394A3 /* RedPacketTableViewCell.swift */; };
+   72  		012CFB1A1EA86ABC002394A3 /* RedPacketView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012CFB191EA86ABC002394A3 /* RedPacketView.swift */; };
+   73: 		012CFB1E1EA88CBE002394A3 /* LotteryBaseSegmentedControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012CFB1D1EA88CBE002394A3 /* LotteryBaseSegmentedControl.swift */; };
+   74  		012CFB221EA89C06002394A3 /* AESCryptService.m in Sources */ = {isa = PBXBuildFile; fileRef = 012CFB211EA89C06002394A3 /* AESCryptService.m */; };
+   75  		012CFB261EA8ADB4002394A3 /* MineOrderMagicViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 012CFB251EA8ADB4002394A3 /* MineOrderMagicViewController.swift */; };
+   ..
+   77  		01355AA71E8FD78900A49DD8 /* MineOrderDetailTableHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01355AA61E8FD78900A49DD8 /* MineOrderDetailTableHeaderView.swift */; };
+   78  		01355AA91E8FD7F400A49DD8 /* MineOrderDetailTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01355AA81E8FD7F400A49DD8 /* MineOrderDetailTableViewController.swift */; };
+   79: 		01355AAB1E8FDB8D00A49DD8 /* LotteryBaseTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01355AAA1E8FDB8D00A49DD8 /* LotteryBaseTableViewCell.swift */; };
+   80  		0155280C1EA470AE00293E0F /* SettingsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0155280B1EA470AE00293E0F /* SettingsTableViewCell.swift */; };
+   81  		0155280E1EA4752F00293E0F /* MyAccountTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0155280D1EA4752F00293E0F /* MyAccountTableViewController.swift */; };
+   ..
+   84  		015528141EA494F200293E0F /* AccountDetailTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 015528131EA494F200293E0F /* AccountDetailTableViewCell.swift */; };
+   85  		015528161EA4967E00293E0F /* AccountDetailTableHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 015528151EA4967E00293E0F /* AccountDetailTableHeaderView.swift */; };
+   86: 		016013731EA9AED7004C5B32 /* LotteryBaseEmptyButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 016013721EA9AED7004C5B32 /* LotteryBaseEmptyButton.swift */; };
+   87  		016013751EA9DACD004C5B32 /* AppInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = 016013741EA9DACD004C5B32 /* AppInfo.swift */; };
+   88  		016013771EA9DBB6004C5B32 /* AppService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 016013761EA9DBB6004C5B32 /* AppService.swift */; };
+   ..
+   97  		0177B3C21E2E416200D36720 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0177B3C11E2E416200D36720 /* Assets.xcassets */; };
+   98  		0177B3C51E2E416200D36720 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0177B3C31E2E416200D36720 /* LaunchScreen.storyboard */; };
+   99: 		0177B3D01E2E416200D36720 /* LotteryTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0177B3CF1E2E416200D36720 /* LotteryTests.swift */; };
+  100: 		0177B3DB1E2E416200D36720 /* LotteryUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0177B3DA1E2E416200D36720 /* LotteryUITests.swift */; };
+  101: 		0177B3EE1E2E41E900D36720 /* LotteryTabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0177B3EA1E2E41E900D36720 /* LotteryTabBarViewController.swift */; };
+  102  		0177B3EF1E2E41E900D36720 /* MineViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0177B3EB1E2E41E900D36720 /* MineViewController.swift */; };
+  103  		0177B3F01E2E41E900D36720 /* NoticeTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0177B3EC1E2E41E900D36720 /* NoticeTableViewController.swift */; };
+  104  		0177B3F91E2E427A00D36720 /* CommonUtil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0177B3F41E2E427A00D36720 /* CommonUtil.swift */; };
+  105  		0177B3FA1E2E427A00D36720 /* config.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0177B3F51E2E427A00D36720 /* config.swift */; };
+  106: 		0177B3FB1E2E427A00D36720 /* LotteryBaseTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0177B3F61E2E427A00D36720 /* LotteryBaseTableViewController.swift */; };
+  107: 		0177B3FC1E2E427A00D36720 /* LotteryBaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0177B3F71E2E427A00D36720 /* LotteryBaseViewController.swift */; };
+  108: 		0177B3FD1E2E427A00D36720 /* LotteryRefreshTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0177B3F81E2E427A00D36720 /* LotteryRefreshTableViewController.swift */; };
+  109  		0177B47C1E2E42F600D36720 /* AFHTTPSessionManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 0177B4041E2E42F600D36720 /* AFHTTPSessionManager.m */; };
+  110  		0177B47D1E2E42F600D36720 /* AFNetworkReachabilityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 0177B4071E2E42F600D36720 /* AFNetworkReachabilityManager.m */; };
+  ...
+  168  		0177B4D01E2E52DC00D36720 /* SDCycleScrollView.m in Sources */ = {isa = PBXBuildFile; fileRef = 0177B4C81E2E52DC00D36720 /* SDCycleScrollView.m */; };
+  169  		0177B4D11E2E52DC00D36720 /* UIView+SDExtension.m in Sources */ = {isa = PBXBuildFile; fileRef = 0177B4CA1E2E52DC00D36720 /* UIView+SDExtension.m */; };
+  170: 		0177B4D31E2E54B900D36720 /* LotteryWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0177B4D21E2E54B900D36720 /* LotteryWebViewController.swift */; };
+  171  		01792D0D1E370B8000DBD6EA /* MineTableHeaderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01792D0C1E370B8000DBD6EA /* MineTableHeaderView.swift */; };
+  172: 		01792D0F1E373FE200DBD6EA /* LotteryLoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01792D0E1E373FE200DBD6EA /* LotteryLoginViewController.swift */; };
+  173: 		01792D131E37449100DBD6EA /* LotteryLoginView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01792D121E37449100DBD6EA /* LotteryLoginView.swift */; };
+  174  		017A66541EC95FC00062263E /* OrderDetailService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 017A66531EC95FC00062263E /* OrderDetailService.swift */; };
+  175  		017A66561EC9AD710062263E /* MineOrderDetailBottomButtonView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 017A66551EC9AD710062263E /* MineOrderDetailBottomButtonView.swift */; };
+  ...
+  179  		0180B7A01EB9B7B200FF69B4 /* UserNotifications.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0180B79F1EB9B7B200FF69B4 /* UserNotifications.framework */; settings = {ATTRIBUTES = (Weak, ); }; };
+  180  		0180B7A21EB9B7BF00FF69B4 /* libresolv.tbd in Frameworks */ = {isa = PBXBuildFile; fileRef = 0180B7A11EB9B7BF00FF69B4 /* libresolv.tbd */; settings = {ATTRIBUTES = (Required, ); }; };
+  181: 		0180B7A81EBAD0D400FF69B4 /* LotteryGuideViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0180B7A71EBAD0D400FF69B4 /* LotteryGuideViewController.swift */; };
+  182  		018235491E9C746B00479EB0 /* PayTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 018235481E9C746B00479EB0 /* PayTableViewController.swift */; };
+  183  		0182354B1E9C76CF00479EB0 /* PayInfoTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0182354A1E9C76CF00479EB0 /* PayInfoTableViewCell.swift */; };
+  ...
+  205  		0195D6271EC173DB00464E79 /* D11PayTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0195D6261EC173DB00464E79 /* D11PayTableViewController.swift */; };
+  206  		0195D6291EC1A33E00464E79 /* OrderListService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0195D6281EC1A33E00464E79 /* OrderListService.swift */; };
+  207: 		0198FEB41EA079AE00E0E030 /* LotteryBaseAttributedLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0198FEB31EA079AE00E0E030 /* LotteryBaseAttributedLabel.swift */; };
+  208: 		0198FEB61EA07C5C00E0E030 /* LotteryRoutes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0198FEB51EA07C5C00E0E030 /* LotteryRoutes.swift */; };
+  209  		019F3F9D1EBB1702008A9AB7 /* LaunchAdService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 019F3F9C1EBB1702008A9AB7 /* LaunchAdService.swift */; };
+  210  		019F3FA11EBC3454008A9AB7 /* HomeQuickOrderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 019F3FA01EBC3454008A9AB7 /* HomeQuickOrderView.swift */; };
+  ...
+  214  		01A42A4C1E2F49A60060B517 /* HomeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01A42A4B1E2F49A60060B517 /* HomeViewController.swift */; };
+  215  		01A42A501E2F5D900060B517 /* MBProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = 01A42A4F1E2F5D900060B517 /* MBProgressHUD.m */; };
+  216: 		01A42A521E2F5F2F0060B517 /* LotteryBaseBallView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01A42A511E2F5F2F0060B517 /* LotteryBaseBallView.swift */; };
+  217  		01A42A5E1E2F956B0060B517 /* DPCBallBoardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01A42A5D1E2F956B0060B517 /* DPCBallBoardView.swift */; };
+  218: 		01A42A601E30621C0060B517 /* LotteryBallBoardBottomBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01A42A5F1E30621C0060B517 /* LotteryBallBoardBottomBarView.swift */; };
+  219  		01A42A681E30AD070060B517 /* PopoverAction.m in Sources */ = {isa = PBXBuildFile; fileRef = 01A42A631E30AD070060B517 /* PopoverAction.m */; };
+  220  		01A42A691E30AD070060B517 /* PopoverView.m in Sources */ = {isa = PBXBuildFile; fileRef = 01A42A651E30AD070060B517 /* PopoverView.m */; };
+  ...
+  223  		01A42A781E3700E10060B517 /* OrderItemTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01A42A771E3700E10060B517 /* OrderItemTableViewCell.swift */; };
+  224  		01ABACC31E5D327F0020067C /* D11NormalViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01ABACC21E5D327F0020067C /* D11NormalViewController.swift */; };
+  225: 		01ABACC51E5D3A810020067C /* LotteryTrianglePointLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01ABACC41E5D3A810020067C /* LotteryTrianglePointLabel.swift */; };
+  226  		01ABACC71E5D3D9B0020067C /* D11NormalBallBoardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01ABACC61E5D3D9B0020067C /* D11NormalBallBoardView.swift */; };
+  227: 		01ABACC91E5D8CE60020067C /* LotteryBaseBallBoardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01ABACC81E5D8CE60020067C /* LotteryBaseBallBoardView.swift */; };
+  228  		01ABACCD1E5ECFEE0020067C /* D11NormalRenxuanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01ABACCC1E5ECFEE0020067C /* D11NormalRenxuanViewController.swift */; };
+  229  		01ABACCF1E5ED7280020067C /* D11MainDropDownView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01ABACCE1E5ED7280020067C /* D11MainDropDownView.swift */; };
+  ...
+  233  		01AF05DB1E65214C00F08D1C /* D11OrderBottomMultipleBarTermView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01AF05DA1E65214C00F08D1C /* D11OrderBottomMultipleBarTermView.swift */; };
+  234  		01AF05DD1E657DB500F08D1C /* D11OrderBottomMultipleBarMultipleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01AF05DC1E657DB500F08D1C /* D11OrderBottomMultipleBarMultipleView.swift */; };
+  235: 		01B500611EADE190000E72F2 /* LotteryBaseTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01B500601EADE190000E72F2 /* LotteryBaseTableView.swift */; };
+  236  		01B500631EADE233000E72F2 /* PayMoreRedPacketTableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01B500621EADE233000E72F2 /* PayMoreRedPacketTableView.swift */; };
+  237  		01B5006A1EAE0E41000E72F2 /* libWeChatSDK.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 01B500651EAE0E40000E72F2 /* libWeChatSDK.a */; settings = {ATTRIBUTES = (Required, ); }; };
+  ...
+  250  		01B5008B1EAF441C000E72F2 /* Order.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01B5008A1EAF441C000E72F2 /* Order.swift */; };
+  251  		01B5008D1EAF46AC000E72F2 /* OrderDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01B5008C1EAF46AC000E72F2 /* OrderDetail.swift */; };
+  252: 		01B5008F1EAF479B000E72F2 /* LotteryNum.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01B5008E1EAF479B000E72F2 /* LotteryNum.swift */; };
+  253  		01B500911EAF4990000E72F2 /* Follow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01B500901EAF4990000E72F2 /* Follow.swift */; };
+  254  		01B500931EB03883000E72F2 /* MineFollowTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01B500921EB03883000E72F2 /* MineFollowTableViewController.swift */; };
+  255  		01B500951EB04C5C000E72F2 /* MineTicketDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01B500941EB04C5C000E72F2 /* MineTicketDetailViewController.swift */; };
+  256: 		01B500971EB09CC1000E72F2 /* LotteryBaseTextField.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01B500961EB09CC1000E72F2 /* LotteryBaseTextField.swift */; };
+  257: 		01B500991EB09D28000E72F2 /* LotteryBaseTextView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01B500981EB09D28000E72F2 /* LotteryBaseTextView.swift */; };
+  258  		01CC9D6A1E56978700123F90 /* D11MainViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01CC9D691E56978700123F90 /* D11MainViewController.swift */; };
+  259  		01CC9D6D1E5AE79000123F90 /* D11BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01CC9D6C1E5AE79000123F90 /* D11BaseViewController.swift */; };
+  ...
+  304  		01E57F1C1EB36AF900FCC68A /* XHLaunchAdView.m in Sources */ = {isa = PBXBuildFile; fileRef = 01E57F101EB36AF900FCC68A /* XHLaunchAdView.m */; };
+  305  		01E57F1D1EB36AF900FCC68A /* XHLaunchImageView.m in Sources */ = {isa = PBXBuildFile; fileRef = 01E57F121EB36AF900FCC68A /* XHLaunchImageView.m */; };
+  306: 		01E57F211EB36ED900FCC68A /* LotteryLaunchAdConfiguration.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01E57F201EB36ED900FCC68A /* LotteryLaunchAdConfiguration.swift */; };
+  307  		01E5BD401ECDA6D10095A47F /* BalanceService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01E5BD3F1ECDA6D10095A47F /* BalanceService.swift */; };
+  308  		01E5BD421ECDB5900095A47F /* BankCardService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01E5BD411ECDB5900095A47F /* BankCardService.swift */; };
+  ...
+  316  		A23E638D1E8BC7EF00960B5F /* D11BaseBallBoardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23E638C1E8BC7EF00960B5F /* D11BaseBallBoardView.swift */; };
+  317  		A23E638F1E8BE58500960B5F /* D11DantuoZuxuanViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23E638E1E8BE58500960B5F /* D11DantuoZuxuanViewController.swift */; };
+  318: 		A23E63911E8CA97B00960B5F /* LotteryCycleScrollView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23E63901E8CA97B00960B5F /* LotteryCycleScrollView.swift */; };
+  319  		A23E63931E8CDB3D00960B5F /* NoticeTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23E63921E8CDB3D00960B5F /* NoticeTableViewCell.swift */; };
+  320  		A23E63951E8CE50B00960B5F /* NoticeBallListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23E63941E8CE50B00960B5F /* NoticeBallListView.swift */; };
+  ...
+  322  		A23E63991E8D0F8C00960B5F /* NoticeTermTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23E63981E8D0F8C00960B5F /* NoticeTermTableViewController.swift */; };
+  323  		A23E639B1E8D191300960B5F /* MobileLoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23E639A1E8D191300960B5F /* MobileLoginViewController.swift */; };
+  324: 		A23E639D1E8D22E100960B5F /* LotteryBaseTextFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23E639C1E8D22E100960B5F /* LotteryBaseTextFieldView.swift */; };
+  325  		A23E639F1E8D309E00960B5F /* MobileTextFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23E639E1E8D309E00960B5F /* MobileTextFieldView.swift */; };
+  326  		A23E63A11E8D31B500960B5F /* PasswordTextFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23E63A01E8D31B500960B5F /* PasswordTextFieldView.swift */; };
+  327: 		A23E63A31E8D34F400960B5F /* LotteryBaseButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23E63A21E8D34F400960B5F /* LotteryBaseButton.swift */; };
+  328  		A23E63A51E8D39AF00960B5F /* MobileRegisterViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23E63A41E8D39AF00960B5F /* MobileRegisterViewController.swift */; };
+  329  		A23E63A71E8D3A1E00960B5F /* VerifyTextFieldView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A23E63A61E8D3A1E00960B5F /* VerifyTextFieldView.swift */; };
+  ...
+  364  		CEB4AE611F385CBA0042E07F /* FeedbackService.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEB4AE601F385CBA0042E07F /* FeedbackService.swift */; };
+  365  		CEE76CC31F1C983E00406320 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = CEE76CC21F1C983E00406320 /* index.html */; };
+  366: 		CEE76CC91F1C9BC800406320 /* LotteryHtmlWebViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE76CC81F1C9BC800406320 /* LotteryHtmlWebViewController.swift */; };
+  367  /* End PBXBuildFile section */
+  368  
+  ...
+  373  			proxyType = 1;
+  374  			remoteGlobalIDString = 0177B3B61E2E416200D36720;
+  375: 			remoteInfo = Lottery;
+  376  		};
+  377  		0177B3D71E2E416200D36720 /* PBXContainerItemProxy */ = {
+  ...
+  380  			proxyType = 1;
+  381  			remoteGlobalIDString = 0177B3B61E2E416200D36720;
+  382: 			remoteInfo = Lottery;
+  383  		};
+  384  /* End PBXContainerItemProxy section */
+  385  
+  386  /* Begin PBXFileReference section */
+  387: 		010A334D1E4D5C4A009DAAF2 /* LotteryMainBaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryMainBaseViewController.swift; sourceTree = "<group>"; };
+  388  		010A334F1E4D6119009DAAF2 /* SSQMainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SSQMainViewController.swift; sourceTree = "<group>"; };
+  389: 		010A33521E4D6461009DAAF2 /* LotteryMainBaseDropDownButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryMainBaseDropDownButton.swift; sourceTree = "<group>"; };
+  390: 		010A33581E4DA99A009DAAF2 /* LotteryMainBaseDropDownView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryMainBaseDropDownView.swift; sourceTree = "<group>"; };
+  391  		010A33601E51A7FA009DAAF2 /* DPCDantuoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DPCDantuoViewController.swift; sourceTree = "<group>"; };
+  392  		010A33621E51A8F8009DAAF2 /* SSQDantuoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SSQDantuoViewController.swift; sourceTree = "<group>"; };
+  ...
+  396  		010A336B1E5300D7009DAAF2 /* DLTOrderBottomMultipleBarView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DLTOrderBottomMultipleBarView.swift; sourceTree = "<group>"; };
+  397  		010A336D1E530107009DAAF2 /* DLTOrderBottomMultipleBarMainView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DLTOrderBottomMultipleBarMainView.swift; sourceTree = "<group>"; };
+  398: 		010A33711E544673009DAAF2 /* LotteryCheckBoxButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryCheckBoxButton.swift; sourceTree = "<group>"; };
+  399  		010A33731E545DFA009DAAF2 /* DLTMainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DLTMainViewController.swift; sourceTree = "<group>"; };
+  400  		010A33751E545F13009DAAF2 /* DLTDantuoViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DLTDantuoViewController.swift; sourceTree = "<group>"; };
+  ...
+  404  		011187821E949042001B1B89 /* MineOrderDetailTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MineOrderDetailTableViewCell.swift; sourceTree = "<group>"; };
+  405  		011187841E95DDA9001B1B89 /* IdentityVerifyViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IdentityVerifyViewController.swift; sourceTree = "<group>"; };
+  406: 		011187861E95DFC0001B1B89 /* LotteryBaseScrollViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryBaseScrollViewController.swift; sourceTree = "<group>"; };
+  407  		011187881E962E81001B1B89 /* WithdrawViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WithdrawViewController.swift; sourceTree = "<group>"; };
+  408  		0111878A1E9630D8001B1B89 /* WithdrawTextFieldView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WithdrawTextFieldView.swift; sourceTree = "<group>"; };
+  ...
+  414  		0127ADF71E4465360012C728 /* TTTAttributedLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TTTAttributedLabel.m; sourceTree = "<group>"; };
+  415  		0127AE091E44B9C80012C728 /* ViewUtil.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewUtil.swift; sourceTree = "<group>"; };
+  416: 		0127AE0D1E45D6D20012C728 /* LotteryBaseNavigationController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryBaseNavigationController.swift; sourceTree = "<group>"; };
+  417  		0127AE101E45DADF0012C728 /* UIAlertController+Window.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIAlertController+Window.h"; sourceTree = "<group>"; };
+  418  		0127AE111E45DADF0012C728 /* UIAlertController+Window.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIAlertController+Window.m"; sourceTree = "<group>"; };
+  419: 		0127AE131E45E46A0012C728 /* LotteryOrderViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryOrderViewController.swift; sourceTree = "<group>"; };
+  420: 		0127AE151E462F3B0012C728 /* LotteryUtil.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryUtil.swift; sourceTree = "<group>"; };
+  421  		0127AE201E48209F0012C728 /* OrderBottomInfoBarView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrderBottomInfoBarView.swift; sourceTree = "<group>"; };
+  422  		0127AE221E4825180012C728 /* OrderBottomMultipleBarMainView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrderBottomMultipleBarMainView.swift; sourceTree = "<group>"; };
+  ...
+  444  		012AD2321E4B38E9004153BE /* SSQOrderBottomMultipleBarView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SSQOrderBottomMultipleBarView.swift; sourceTree = "<group>"; };
+  445  		012AD2341E4B3917004153BE /* SSQOrderBottomMultipleBarMainView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SSQOrderBottomMultipleBarMainView.swift; sourceTree = "<group>"; };
+  446: 		012AD23E1E4B42FE004153BE /* LotteryBoardBaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryBoardBaseViewController.swift; sourceTree = "<group>"; };
+  447  		012AD2401E4B46C3004153BE /* DPCNormalViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DPCNormalViewController.swift; sourceTree = "<group>"; };
+  448  		012AD2421E4B5215004153BE /* DLTNormalViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DLTNormalViewController.swift; sourceTree = "<group>"; };
+  ...
+  451  		012CFB0D1EA7045C002394A3 /* ChargeBaseTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChargeBaseTableViewCell.swift; sourceTree = "<group>"; };
+  452  		012CFB0F1EA71A96002394A3 /* ChargeAmountTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChargeAmountTableViewCell.swift; sourceTree = "<group>"; };
+  453: 		012CFB111EA76ED3002394A3 /* LotteryBaseSelectionButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryBaseSelectionButton.swift; sourceTree = "<group>"; };
+  454: 		012CFB131EA8557E002394A3 /* LotteryBaseMagicViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryBaseMagicViewController.swift; sourceTree = "<group>"; };
+  455  		012CFB151EA85FF1002394A3 /* RedPacketMagicViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RedPacketMagicViewController.swift; sourceTree = "<group>"; };
+  456  		012CFB171EA868E3002394A3 /* RedPacketTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RedPacketTableViewCell.swift; sourceTree = "<group>"; };
+  457  		012CFB191EA86ABC002394A3 /* RedPacketView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RedPacketView.swift; sourceTree = "<group>"; };
+  458: 		012CFB1D1EA88CBE002394A3 /* LotteryBaseSegmentedControl.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryBaseSegmentedControl.swift; sourceTree = "<group>"; };
+  459  		012CFB201EA89C06002394A3 /* AESCryptService.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AESCryptService.h; sourceTree = "<group>"; };
+  460  		012CFB211EA89C06002394A3 /* AESCryptService.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AESCryptService.m; sourceTree = "<group>"; };
+  ...
+  463  		01355AA61E8FD78900A49DD8 /* MineOrderDetailTableHeaderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MineOrderDetailTableHeaderView.swift; sourceTree = "<group>"; };
+  464  		01355AA81E8FD7F400A49DD8 /* MineOrderDetailTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MineOrderDetailTableViewController.swift; sourceTree = "<group>"; };
+  465: 		01355AAA1E8FDB8D00A49DD8 /* LotteryBaseTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryBaseTableViewCell.swift; sourceTree = "<group>"; };
+  466  		0155280B1EA470AE00293E0F /* SettingsTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SettingsTableViewCell.swift; sourceTree = "<group>"; };
+  467  		0155280D1EA4752F00293E0F /* MyAccountTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MyAccountTableViewController.swift; sourceTree = "<group>"; };
+  ...
+  470  		015528131EA494F200293E0F /* AccountDetailTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AccountDetailTableViewCell.swift; sourceTree = "<group>"; };
+  471  		015528151EA4967E00293E0F /* AccountDetailTableHeaderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AccountDetailTableHeaderView.swift; sourceTree = "<group>"; };
+  472: 		016013721EA9AED7004C5B32 /* LotteryBaseEmptyButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryBaseEmptyButton.swift; sourceTree = "<group>"; };
+  473  		016013741EA9DACD004C5B32 /* AppInfo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppInfo.swift; sourceTree = "<group>"; };
+  474  		016013761EA9DBB6004C5B32 /* AppService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AppService.swift; sourceTree = "<group>"; };
+  ...
+  480  		016013821EAA121D004C5B32 /* CommonRetCode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CommonRetCode.swift; sourceTree = "<group>"; };
+  481  		016013841EAA351F004C5B32 /* PayRedPacketDetailButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PayRedPacketDetailButton.swift; sourceTree = "<group>"; };
+  482: 		0177B3B71E2E416200D36720 /* Lottery.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Lottery.app; sourceTree = BUILT_PRODUCTS_DIR; };
+  483  		0177B3BA1E2E416200D36720 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+  484  		0177B3C11E2E416200D36720 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+  485  		0177B3C41E2E416200D36720 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+  486  		0177B3C61E2E416200D36720 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+  487: 		0177B3CB1E2E416200D36720 /* LotteryTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LotteryTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+  488: 		0177B3CF1E2E416200D36720 /* LotteryTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LotteryTests.swift; sourceTree = "<group>"; };
+  489  		0177B3D11E2E416200D36720 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+  490: 		0177B3D61E2E416200D36720 /* LotteryUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LotteryUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+  491: 		0177B3DA1E2E416200D36720 /* LotteryUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LotteryUITests.swift; sourceTree = "<group>"; };
+  492  		0177B3DC1E2E416200D36720 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+  493  		0177B3E81E2E41E900D36720 /* bridging.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = bridging.h; sourceTree = "<group>"; };
+  494: 		0177B3EA1E2E41E900D36720 /* LotteryTabBarViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryTabBarViewController.swift; sourceTree = "<group>"; };
+  495  		0177B3EB1E2E41E900D36720 /* MineViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MineViewController.swift; sourceTree = "<group>"; };
+  496  		0177B3EC1E2E41E900D36720 /* NoticeTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NoticeTableViewController.swift; sourceTree = "<group>"; };
+  497  		0177B3F41E2E427A00D36720 /* CommonUtil.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CommonUtil.swift; sourceTree = "<group>"; };
+  498  		0177B3F51E2E427A00D36720 /* config.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = config.swift; sourceTree = "<group>"; };
+  499: 		0177B3F61E2E427A00D36720 /* LotteryBaseTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryBaseTableViewController.swift; sourceTree = "<group>"; };
+  500: 		0177B3F71E2E427A00D36720 /* LotteryBaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryBaseViewController.swift; sourceTree = "<group>"; };
+  501: 		0177B3F81E2E427A00D36720 /* LotteryRefreshTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryRefreshTableViewController.swift; sourceTree = "<group>"; };
+  502  		0177B4031E2E42F600D36720 /* AFHTTPSessionManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AFHTTPSessionManager.h; sourceTree = "<group>"; };
+  503  		0177B4041E2E42F600D36720 /* AFHTTPSessionManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AFHTTPSessionManager.m; sourceTree = "<group>"; };
+  ...
+  626  		0177B4C91E2E52DC00D36720 /* UIView+SDExtension.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIView+SDExtension.h"; sourceTree = "<group>"; };
+  627  		0177B4CA1E2E52DC00D36720 /* UIView+SDExtension.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIView+SDExtension.m"; sourceTree = "<group>"; };
+  628: 		0177B4D21E2E54B900D36720 /* LotteryWebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryWebViewController.swift; sourceTree = "<group>"; };
+  629  		01792D0C1E370B8000DBD6EA /* MineTableHeaderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MineTableHeaderView.swift; sourceTree = "<group>"; };
+  630: 		01792D0E1E373FE200DBD6EA /* LotteryLoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryLoginViewController.swift; sourceTree = "<group>"; };
+  631: 		01792D121E37449100DBD6EA /* LotteryLoginView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryLoginView.swift; sourceTree = "<group>"; };
+  632  		017A66531EC95FC00062263E /* OrderDetailService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrderDetailService.swift; sourceTree = "<group>"; };
+  633  		017A66551EC9AD710062263E /* MineOrderDetailBottomButtonView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MineOrderDetailBottomButtonView.swift; sourceTree = "<group>"; };
+  ...
+  641  		0180B79F1EB9B7B200FF69B4 /* UserNotifications.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UserNotifications.framework; path = System/Library/Frameworks/UserNotifications.framework; sourceTree = SDKROOT; };
+  642  		0180B7A11EB9B7BF00FF69B4 /* libresolv.tbd */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.text-based-dylib-definition"; name = libresolv.tbd; path = usr/lib/libresolv.tbd; sourceTree = SDKROOT; };
+  643: 		0180B7A31EB9B80200FF69B4 /* Lottery.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Lottery.entitlements; sourceTree = "<group>"; };
+  644  		0180B7A51EB9BD0900FF69B4 /* Bugly.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Bugly.framework; sourceTree = "<group>"; };
+  645: 		0180B7A71EBAD0D400FF69B4 /* LotteryGuideViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryGuideViewController.swift; sourceTree = "<group>"; };
+  646  		018235481E9C746B00479EB0 /* PayTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PayTableViewController.swift; sourceTree = "<group>"; };
+  647  		0182354A1E9C76CF00479EB0 /* PayInfoTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PayInfoTableViewCell.swift; sourceTree = "<group>"; };
+  ...
+  672  		0195D6261EC173DB00464E79 /* D11PayTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = D11PayTableViewController.swift; sourceTree = "<group>"; };
+  673  		0195D6281EC1A33E00464E79 /* OrderListService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrderListService.swift; sourceTree = "<group>"; };
+  674: 		0198FEB31EA079AE00E0E030 /* LotteryBaseAttributedLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryBaseAttributedLabel.swift; sourceTree = "<group>"; };
+  675: 		0198FEB51EA07C5C00E0E030 /* LotteryRoutes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryRoutes.swift; sourceTree = "<group>"; };
+  676  		019F3F9C1EBB1702008A9AB7 /* LaunchAdService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LaunchAdService.swift; sourceTree = "<group>"; };
+  677  		019F3FA01EBC3454008A9AB7 /* HomeQuickOrderView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeQuickOrderView.swift; sourceTree = "<group>"; };
+  ...
+  682  		01A42A4E1E2F5D900060B517 /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
+  683  		01A42A4F1E2F5D900060B517 /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
+  684: 		01A42A511E2F5F2F0060B517 /* LotteryBaseBallView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryBaseBallView.swift; sourceTree = "<group>"; };
+  685  		01A42A5D1E2F956B0060B517 /* DPCBallBoardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DPCBallBoardView.swift; sourceTree = "<group>"; };
+  686: 		01A42A5F1E30621C0060B517 /* LotteryBallBoardBottomBarView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryBallBoardBottomBarView.swift; sourceTree = "<group>"; };
+  687  		01A42A621E30AD070060B517 /* PopoverAction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PopoverAction.h; sourceTree = "<group>"; };
+  688  		01A42A631E30AD070060B517 /* PopoverAction.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PopoverAction.m; sourceTree = "<group>"; };
+  ...
+  694  		01A42A771E3700E10060B517 /* OrderItemTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrderItemTableViewCell.swift; sourceTree = "<group>"; };
+  695  		01ABACC21E5D327F0020067C /* D11NormalViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = D11NormalViewController.swift; sourceTree = "<group>"; };
+  696: 		01ABACC41E5D3A810020067C /* LotteryTrianglePointLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryTrianglePointLabel.swift; sourceTree = "<group>"; };
+  697  		01ABACC61E5D3D9B0020067C /* D11NormalBallBoardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = D11NormalBallBoardView.swift; sourceTree = "<group>"; };
+  698: 		01ABACC81E5D8CE60020067C /* LotteryBaseBallBoardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryBaseBallBoardView.swift; sourceTree = "<group>"; };
+  699  		01ABACCC1E5ECFEE0020067C /* D11NormalRenxuanViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = D11NormalRenxuanViewController.swift; sourceTree = "<group>"; };
+  700  		01ABACCE1E5ED7280020067C /* D11MainDropDownView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = D11MainDropDownView.swift; sourceTree = "<group>"; };
+  ...
+  704  		01AF05DA1E65214C00F08D1C /* D11OrderBottomMultipleBarTermView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = D11OrderBottomMultipleBarTermView.swift; sourceTree = "<group>"; };
+  705  		01AF05DC1E657DB500F08D1C /* D11OrderBottomMultipleBarMultipleView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = D11OrderBottomMultipleBarMultipleView.swift; sourceTree = "<group>"; };
+  706: 		01B500601EADE190000E72F2 /* LotteryBaseTableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryBaseTableView.swift; sourceTree = "<group>"; };
+  707  		01B500621EADE233000E72F2 /* PayMoreRedPacketTableView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PayMoreRedPacketTableView.swift; sourceTree = "<group>"; };
+  708  		01B500651EAE0E40000E72F2 /* libWeChatSDK.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; path = libWeChatSDK.a; sourceTree = "<group>"; };
+  ...
+  726  		01B5008A1EAF441C000E72F2 /* Order.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Order.swift; sourceTree = "<group>"; };
+  727  		01B5008C1EAF46AC000E72F2 /* OrderDetail.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OrderDetail.swift; sourceTree = "<group>"; };
+  728: 		01B5008E1EAF479B000E72F2 /* LotteryNum.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryNum.swift; sourceTree = "<group>"; };
+  729  		01B500901EAF4990000E72F2 /* Follow.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Follow.swift; sourceTree = "<group>"; };
+  730  		01B500921EB03883000E72F2 /* MineFollowTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MineFollowTableViewController.swift; sourceTree = "<group>"; };
+  731  		01B500941EB04C5C000E72F2 /* MineTicketDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MineTicketDetailViewController.swift; sourceTree = "<group>"; };
+  732: 		01B500961EB09CC1000E72F2 /* LotteryBaseTextField.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryBaseTextField.swift; sourceTree = "<group>"; };
+  733: 		01B500981EB09D28000E72F2 /* LotteryBaseTextView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryBaseTextView.swift; sourceTree = "<group>"; };
+  734  		01CC9D691E56978700123F90 /* D11MainViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = D11MainViewController.swift; sourceTree = "<group>"; };
+  735  		01CC9D6C1E5AE79000123F90 /* D11BaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = D11BaseViewController.swift; sourceTree = "<group>"; };
+  ...
+  793  		01E57F111EB36AF900FCC68A /* XHLaunchImageView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XHLaunchImageView.h; sourceTree = "<group>"; };
+  794  		01E57F121EB36AF900FCC68A /* XHLaunchImageView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XHLaunchImageView.m; sourceTree = "<group>"; };
+  795: 		01E57F201EB36ED900FCC68A /* LotteryLaunchAdConfiguration.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryLaunchAdConfiguration.swift; sourceTree = "<group>"; };
+  796  		01E5BD3F1ECDA6D10095A47F /* BalanceService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BalanceService.swift; sourceTree = "<group>"; };
+  797  		01E5BD411ECDB5900095A47F /* BankCardService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BankCardService.swift; sourceTree = "<group>"; };
+  ...
+  805  		A23E638C1E8BC7EF00960B5F /* D11BaseBallBoardView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = D11BaseBallBoardView.swift; sourceTree = "<group>"; };
+  806  		A23E638E1E8BE58500960B5F /* D11DantuoZuxuanViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = D11DantuoZuxuanViewController.swift; sourceTree = "<group>"; };
+  807: 		A23E63901E8CA97B00960B5F /* LotteryCycleScrollView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryCycleScrollView.swift; sourceTree = "<group>"; };
+  808  		A23E63921E8CDB3D00960B5F /* NoticeTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NoticeTableViewCell.swift; sourceTree = "<group>"; };
+  809  		A23E63941E8CE50B00960B5F /* NoticeBallListView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NoticeBallListView.swift; sourceTree = "<group>"; };
+  ...
+  811  		A23E63981E8D0F8C00960B5F /* NoticeTermTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NoticeTermTableViewController.swift; sourceTree = "<group>"; };
+  812  		A23E639A1E8D191300960B5F /* MobileLoginViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MobileLoginViewController.swift; sourceTree = "<group>"; };
+  813: 		A23E639C1E8D22E100960B5F /* LotteryBaseTextFieldView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryBaseTextFieldView.swift; sourceTree = "<group>"; };
+  814  		A23E639E1E8D309E00960B5F /* MobileTextFieldView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MobileTextFieldView.swift; sourceTree = "<group>"; };
+  815  		A23E63A01E8D31B500960B5F /* PasswordTextFieldView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PasswordTextFieldView.swift; sourceTree = "<group>"; };
+  816: 		A23E63A21E8D34F400960B5F /* LotteryBaseButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryBaseButton.swift; sourceTree = "<group>"; };
+  817  		A23E63A41E8D39AF00960B5F /* MobileRegisterViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MobileRegisterViewController.swift; sourceTree = "<group>"; };
+  818  		A23E63A61E8D3A1E00960B5F /* VerifyTextFieldView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VerifyTextFieldView.swift; sourceTree = "<group>"; };
+  ...
+  863  		CEB4AE601F385CBA0042E07F /* FeedbackService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FeedbackService.swift; sourceTree = "<group>"; };
+  864  		CEE76CC21F1C983E00406320 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; name = index.html; path = ../index.html; sourceTree = "<group>"; };
+  865: 		CEE76CC81F1C9BC800406320 /* LotteryHtmlWebViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LotteryHtmlWebViewController.swift; sourceTree = "<group>"; };
+  866  /* End PBXFileReference section */
+  867  
+  ...
+  917  			isa = PBXGroup;
+  918  			children = (
+  919: 				010A33521E4D6461009DAAF2 /* LotteryMainBaseDropDownButton.swift */,
+  920: 				010A33581E4DA99A009DAAF2 /* LotteryMainBaseDropDownView.swift */,
+  921  				010A33661E52F412009DAAF2 /* DPCMainDropDownView.swift */,
+  922  				01ABACCE1E5ED7280020067C /* D11MainDropDownView.swift */,
+  ...
+  936  			isa = PBXGroup;
+  937  			children = (
+  938: 				010A334D1E4D5C4A009DAAF2 /* LotteryMainBaseViewController.swift */,
+  939  				010A33681E52F567009DAAF2 /* DPCMainViewController.swift */,
+  940  				010A334F1E4D6119009DAAF2 /* SSQMainViewController.swift */,
+  ...
+  948  			isa = PBXGroup;
+  949  			children = (
+  950: 				012AD23E1E4B42FE004153BE /* LotteryBoardBaseViewController.swift */,
+  951  				010A33641E52DC4F009DAAF2 /* DPCBaseViewController.swift */,
+  952  				012AD2401E4B46C3004153BE /* DPCNormalViewController.swift */,
+  ...
+  973  			isa = PBXGroup;
+  974  			children = (
+  975: 				0127AE131E45E46A0012C728 /* LotteryOrderViewController.swift */,
+  976  				0127AE471E4B1ACA0012C728 /* DPCOrderViewController.swift */,
+  977  				01A42A751E3700250060B517 /* SSQOrderViewController.swift */,
+  ...
+ 1039  				018B6FEF1ECEEF15008A3EE3 /* FollowOrder.swift */,
+ 1040  				0182C5CA1ED3F89000579955 /* Ticket.swift */,
+ 1041: 				01B5008E1EAF479B000E72F2 /* LotteryNum.swift */,
+ 1042  				018B6FE11ECEC9FB008A3EE3 /* Bill.swift */,
+ 1043  				018B6FE31ECECAF4008A3EE3 /* Game.swift */,
+ ....
+ 1096  			isa = PBXGroup;
+ 1097  			children = (
+ 1098: 				01A42A511E2F5F2F0060B517 /* LotteryBaseBallView.swift */,
+ 1099: 				01ABACC81E5D8CE60020067C /* LotteryBaseBallBoardView.swift */,
+ 1100  				01A42A5D1E2F956B0060B517 /* DPCBallBoardView.swift */,
+ 1101  				A23E638C1E8BC7EF00960B5F /* D11BaseBallBoardView.swift */,
+ 1102  				01ABACC61E5D3D9B0020067C /* D11NormalBallBoardView.swift */,
+ 1103  				A23E638A1E8BC77800960B5F /* D11DantuoBallBoardView.swift */,
+ 1104: 				01A42A5F1E30621C0060B517 /* LotteryBallBoardBottomBarView.swift */,
+ 1105  				A23E63861E8BC52400960B5F /* DantuoIntroButton.swift */,
+ 1106  			);
+ ....
+ 1172  				01355AA21E8F985F00A49DD8 /* .gitignore */,
+ 1173  				0177B4011E2E42D000D36720 /* ThirdKit */,
+ 1174: 				0177B3B91E2E416200D36720 /* Lottery */,
+ 1175: 				0177B3CE1E2E416200D36720 /* LotteryTests */,
+ 1176: 				0177B3D91E2E416200D36720 /* LotteryUITests */,
+ 1177  				0177B3B81E2E416200D36720 /* Products */,
+ 1178  				01B5006D1EAE147B000E72F2 /* Frameworks */,
+ ....
+ 1183  			isa = PBXGroup;
+ 1184  			children = (
+ 1185: 				0177B3B71E2E416200D36720 /* Lottery.app */,
+ 1186: 				0177B3CB1E2E416200D36720 /* LotteryTests.xctest */,
+ 1187: 				0177B3D61E2E416200D36720 /* LotteryUITests.xctest */,
+ 1188  			);
+ 1189  			name = Products;
+ 1190  			sourceTree = "<group>";
+ 1191  		};
+ 1192: 		0177B3B91E2E416200D36720 /* Lottery */ = {
+ 1193  			isa = PBXGroup;
+ 1194  			children = (
+ 1195: 				0180B7A31EB9B80200FF69B4 /* Lottery.entitlements */,
+ 1196  				0127AE171E4814720012C728 /* Model */,
+ 1197  				01DBECDF1E9B8A950005DEE5 /* Service */,
+ ....
+ 1200  				0177B3F31E2E424B00D36720 /* Notice */,
+ 1201  				0177B3F21E2E424200D36720 /* Mine */,
+ 1202: 				0177B3EA1E2E41E900D36720 /* LotteryTabBarViewController.swift */,
+ 1203: 				0180B7A71EBAD0D400FF69B4 /* LotteryGuideViewController.swift */,
+ 1204  				0177B3BA1E2E416200D36720 /* AppDelegate.swift */,
+ 1205  				016013781EA9DC7E004C5B32 /* AppContext.swift */,
+ ....
+ 1211  				0177B3E81E2E41E900D36720 /* bridging.h */,
+ 1212  			);
+ 1213: 			path = Lottery;
+ 1214  			sourceTree = "<group>";
+ 1215  		};
+ 1216: 		0177B3CE1E2E416200D36720 /* LotteryTests */ = {
+ 1217  			isa = PBXGroup;
+ 1218  			children = (
+ 1219: 				0177B3CF1E2E416200D36720 /* LotteryTests.swift */,
+ 1220  				0177B3D11E2E416200D36720 /* Info.plist */,
+ 1221  			);
+ 1222: 			path = LotteryTests;
+ 1223  			sourceTree = "<group>";
+ 1224  		};
+ 1225: 		0177B3D91E2E416200D36720 /* LotteryUITests */ = {
+ 1226  			isa = PBXGroup;
+ 1227  			children = (
+ 1228: 				0177B3DA1E2E416200D36720 /* LotteryUITests.swift */,
+ 1229  				0177B3DC1E2E416200D36720 /* Info.plist */,
+ 1230  			);
+ 1231: 			path = LotteryUITests;
+ 1232  			sourceTree = "<group>";
+ 1233  		};
+ ....
+ 1263  			children = (
+ 1264  				010A337B1E55567E009DAAF2 /* HostRouter.swift */,
+ 1265: 				0198FEB51EA07C5C00E0E030 /* LotteryRoutes.swift */,
+ 1266  				0160137A1EA9E75F004C5B32 /* HTTPConstants.swift */,
+ 1267  				016013821EAA121D004C5B32 /* CommonRetCode.swift */,
+ 1268: 				01E57F201EB36ED900FCC68A /* LotteryLaunchAdConfiguration.swift */,
+ 1269  				0177B4001E2E42C800D36720 /* Util */,
+ 1270  				0177B3FF1E2E428F00D36720 /* View */,
+ ....
+ 1276  			isa = PBXGroup;
+ 1277  			children = (
+ 1278: 				0177B3F71E2E427A00D36720 /* LotteryBaseViewController.swift */,
+ 1279: 				0127AE0D1E45D6D20012C728 /* LotteryBaseNavigationController.swift */,
+ 1280: 				0177B3F61E2E427A00D36720 /* LotteryBaseTableViewController.swift */,
+ 1281: 				0177B3F81E2E427A00D36720 /* LotteryRefreshTableViewController.swift */,
+ 1282: 				011187861E95DFC0001B1B89 /* LotteryBaseScrollViewController.swift */,
+ 1283: 				012CFB131EA8557E002394A3 /* LotteryBaseMagicViewController.swift */,
+ 1284: 				0177B4D21E2E54B900D36720 /* LotteryWebViewController.swift */,
+ 1285: 				010A33711E544673009DAAF2 /* LotteryCheckBoxButton.swift */,
+ 1286: 				01ABACC41E5D3A810020067C /* LotteryTrianglePointLabel.swift */,
+ 1287: 				A23E63901E8CA97B00960B5F /* LotteryCycleScrollView.swift */,
+ 1288: 				01B500961EB09CC1000E72F2 /* LotteryBaseTextField.swift */,
+ 1289: 				A23E639C1E8D22E100960B5F /* LotteryBaseTextFieldView.swift */,
+ 1290: 				01B500981EB09D28000E72F2 /* LotteryBaseTextView.swift */,
+ 1291: 				A23E63A21E8D34F400960B5F /* LotteryBaseButton.swift */,
+ 1292: 				01B500601EADE190000E72F2 /* LotteryBaseTableView.swift */,
+ 1293: 				01355AAA1E8FDB8D00A49DD8 /* LotteryBaseTableViewCell.swift */,
+ 1294: 				0198FEB31EA079AE00E0E030 /* LotteryBaseAttributedLabel.swift */,
+ 1295: 				012CFB111EA76ED3002394A3 /* LotteryBaseSelectionButton.swift */,
+ 1296: 				012CFB1D1EA88CBE002394A3 /* LotteryBaseSegmentedControl.swift */,
+ 1297: 				016013721EA9AED7004C5B32 /* LotteryBaseEmptyButton.swift */,
+ 1298  			);
+ 1299  			name = View;
+ ....
+ 1306  				0177B3F41E2E427A00D36720 /* CommonUtil.swift */,
+ 1307  				0127AE091E44B9C80012C728 /* ViewUtil.swift */,
+ 1308: 				0127AE151E462F3B0012C728 /* LotteryUtil.swift */,
+ 1309  			);
+ 1310  			name = Util;
+ ....
+ 1587  				CEB4AE5E1F382A550042E07F /* FeedbackViewController.swift */,
+ 1588  				0195D61C1EC0539000464E79 /* MineBasicInfoTableViewController.swift */,
+ 1589: 				01792D0E1E373FE200DBD6EA /* LotteryLoginViewController.swift */,
+ 1590  				A23E639A1E8D191300960B5F /* MobileLoginViewController.swift */,
+ 1591  				A23E63A41E8D39AF00960B5F /* MobileRegisterViewController.swift */,
+ ....
+ 1613  				017A66551EC9AD710062263E /* MineOrderDetailBottomButtonView.swift */,
+ 1614  				0155280B1EA470AE00293E0F /* SettingsTableViewCell.swift */,
+ 1615: 				01792D121E37449100DBD6EA /* LotteryLoginView.swift */,
+ 1616  				A23E639E1E8D309E00960B5F /* MobileTextFieldView.swift */,
+ 1617  				A23E63A01E8D31B500960B5F /* PasswordTextFieldView.swift */,
+ ....
+ 1933  			children = (
+ 1934  				CE5DEA4C1F15C414002C9A74 /* ArticleListViewController.swift */,
+ 1935: 				CEE76CC81F1C9BC800406320 /* LotteryHtmlWebViewController.swift */,
+ 1936  			);
+ 1937  			name = Article;
+ ....
+ 1949  
+ 1950  /* Begin PBXNativeTarget section */
+ 1951: 		0177B3B61E2E416200D36720 /* Lottery */ = {
+ 1952  			isa = PBXNativeTarget;
+ 1953: 			buildConfigurationList = 0177B3DF1E2E416200D36720 /* Build configuration list for PBXNativeTarget "Lottery" */;
+ 1954  			buildPhases = (
+ 1955  				0177B3B31E2E416200D36720 /* Sources */,
+ ....
+ 1961  			dependencies = (
+ 1962  			);
+ 1963: 			name = Lottery;
+ 1964: 			productName = Lottery;
+ 1965: 			productReference = 0177B3B71E2E416200D36720 /* Lottery.app */;
+ 1966  			productType = "com.apple.product-type.application";
+ 1967  		};
+ 1968: 		0177B3CA1E2E416200D36720 /* LotteryTests */ = {
+ 1969  			isa = PBXNativeTarget;
+ 1970: 			buildConfigurationList = 0177B3E21E2E416200D36720 /* Build configuration list for PBXNativeTarget "LotteryTests" */;
+ 1971  			buildPhases = (
+ 1972  				0177B3C71E2E416200D36720 /* Sources */,
+ ....
+ 1979  				0177B3CD1E2E416200D36720 /* PBXTargetDependency */,
+ 1980  			);
+ 1981: 			name = LotteryTests;
+ 1982: 			productName = LotteryTests;
+ 1983: 			productReference = 0177B3CB1E2E416200D36720 /* LotteryTests.xctest */;
+ 1984  			productType = "com.apple.product-type.bundle.unit-test";
+ 1985  		};
+ 1986: 		0177B3D51E2E416200D36720 /* LotteryUITests */ = {
+ 1987  			isa = PBXNativeTarget;
+ 1988: 			buildConfigurationList = 0177B3E51E2E416200D36720 /* Build configuration list for PBXNativeTarget "LotteryUITests" */;
+ 1989  			buildPhases = (
+ 1990  				0177B3D21E2E416200D36720 /* Sources */,
+ ....
+ 1997  				0177B3D81E2E416200D36720 /* PBXTargetDependency */,
+ 1998  			);
+ 1999: 			name = LotteryUITests;
+ 2000: 			productName = LotteryUITests;
+ 2001: 			productReference = 0177B3D61E2E416200D36720 /* LotteryUITests.xctest */;
+ 2002  			productType = "com.apple.product-type.bundle.ui-testing";
+ 2003  		};
+ ....
+ 2039  				};
+ 2040  			};
+ 2041: 			buildConfigurationList = 0177B3B21E2E416200D36720 /* Build configuration list for PBXProject "Lottery" */;
+ 2042  			compatibilityVersion = "Xcode 3.2";
+ 2043  			developmentRegion = English;
+ ....
+ 2052  			projectRoot = "";
+ 2053  			targets = (
+ 2054: 				0177B3B61E2E416200D36720 /* Lottery */,
+ 2055: 				0177B3CA1E2E416200D36720 /* LotteryTests */,
+ 2056: 				0177B3D51E2E416200D36720 /* LotteryUITests */,
+ 2057  			);
+ 2058  		};
+ ....
+ 2107  				CE5DEA501F15C6B8002C9A74 /* ArticleListTableViewCell.swift in Sources */,
+ 2108  				0127AE371E4843AE0012C728 /* APNumberPad.m in Sources */,
+ 2109: 				0177B3FC1E2E427A00D36720 /* LotteryBaseViewController.swift in Sources */,
+ 2110  				01A42A4C1E2F49A60060B517 /* HomeViewController.swift in Sources */,
+ 2111  				0177B4871E2E42F600D36720 /* MJRefreshAutoGifFooter.m in Sources */,
+ 2112  				0182C5CD1ED6C0E300579955 /* ChargeService.swift in Sources */,
+ 2113  				010A33651E52DC4F009DAAF2 /* DPCBaseViewController.swift in Sources */,
+ 2114: 				01792D131E37449100DBD6EA /* LotteryLoginView.swift in Sources */,
+ 2115  				01E57EF11EB0A9D300FCC68A /* KMPlaceholderTextView.swift in Sources */,
+ 2116  				01B500891EAF423E000E72F2 /* Period.swift in Sources */,
+ 2117: 				01355AAB1E8FDB8D00A49DD8 /* LotteryBaseTableViewCell.swift in Sources */,
+ 2118  				A23E638B1E8BC77800960B5F /* D11DantuoBallBoardView.swift in Sources */,
+ 2119  				01E57EF71EB1F29B00FCC68A /* ForgetPasswordViewController.swift in Sources */,
+ ....
+ 2122  				0127AE3F1E4ACB4D0012C728 /* OrderBottomMultipleBarView.swift in Sources */,
+ 2123  				0127ADF41E4460730012C728 /* OrderItemTableFooterView.swift in Sources */,
+ 2124: 				012CFB121EA76ED3002394A3 /* LotteryBaseSelectionButton.swift in Sources */,
+ 2125: 				0177B3FD1E2E427A00D36720 /* LotteryRefreshTableViewController.swift in Sources */,
+ 2126  				A23E63CD1E8E4B7400960B5F /* VTMagicView.m in Sources */,
+ 2127: 				0127AE141E45E46B0012C728 /* LotteryOrderViewController.swift in Sources */,
+ 2128  				019F3FA11EBC3454008A9AB7 /* HomeQuickOrderView.swift in Sources */,
+ 2129  				01DBED261E9BBC2D0005DEE5 /* ReflectionHelper.swift in Sources */,
+ 2130: 				0127AE0E1E45D6D20012C728 /* LotteryBaseNavigationController.swift in Sources */,
+ 2131  				011187891E962E81001B1B89 /* WithdrawViewController.swift in Sources */,
+ 2132: 				01792D0F1E373FE200DBD6EA /* LotteryLoginViewController.swift in Sources */,
+ 2133  				01B500831EAEE7AB000E72F2 /* AwardInfo.swift in Sources */,
+ 2134  				010A33691E52F567009DAAF2 /* DPCMainViewController.swift in Sources */,
+ ....
+ 2143  				01E5BD401ECDA6D10095A47F /* BalanceService.swift in Sources */,
+ 2144  				01A42A441E2F1AB00060B517 /* HomeTableViewCell.swift in Sources */,
+ 2145: 				01ABACC91E5D8CE60020067C /* LotteryBaseBallBoardView.swift in Sources */,
+ 2146  				01A42A761E3700250060B517 /* SSQOrderViewController.swift in Sources */,
+ 2147  				0177B48A1E2E42F600D36720 /* MJRefreshBackGifFooter.m in Sources */,
+ ....
+ 2165  				010A33501E4D6119009DAAF2 /* SSQMainViewController.swift in Sources */,
+ 2166  				01AF05DB1E65214C00F08D1C /* D11OrderBottomMultipleBarTermView.swift in Sources */,
+ 2167: 				01B500991EB09D28000E72F2 /* LotteryBaseTextView.swift in Sources */,
+ 2168  				01E57F171EB36AF900FCC68A /* XHLaunchAdButton.m in Sources */,
+ 2169  				A23E63831E8BA56700960B5F /* D11NormalQian3ZhixuanViewController.swift in Sources */,
+ ....
+ 2174  				0177B48E1E2E42F600D36720 /* MJRefreshNormalHeader.m in Sources */,
+ 2175  				0177B3F91E2E427A00D36720 /* CommonUtil.swift in Sources */,
+ 2176: 				012AD23F1E4B42FE004153BE /* LotteryBoardBaseViewController.swift in Sources */,
+ 2177  				016013751EA9DACD004C5B32 /* AppInfo.swift in Sources */,
+ 2178  				0177B4991E2E42F600D36720 /* SDImageCache.m in Sources */,
+ ....
+ 2181  				01CC9D6D1E5AE79000123F90 /* D11BaseViewController.swift in Sources */,
+ 2182  				01AF05D71E651FC900F08D1C /* D11OrderBottomMultipleBarMainView.swift in Sources */,
+ 2183: 				010A334E1E4D5C4A009DAAF2 /* LotteryMainBaseViewController.swift in Sources */,
+ 2184  				A23E63891E8BC74600960B5F /* D11DantuoRenxuanViewController.swift in Sources */,
+ 2185  				01DBED2B1E9BBC2D0005DEE5 /* URLTransform.swift in Sources */,
+ ....
+ 2193  				0177B4A61E2E42F600D36720 /* UIImageView+WebCache.m in Sources */,
+ 2194  				01DBED211E9BBC2D0005DEE5 /* NSDecimalNumberTransform.swift in Sources */,
+ 2195: 				01A42A601E30621C0060B517 /* LotteryBallBoardBottomBarView.swift in Sources */,
+ 2196  				0155280E1EA4752F00293E0F /* MyAccountTableViewController.swift in Sources */,
+ 2197  				0177B4CF1E2E52DC00D36720 /* SDCollectionViewCell.m in Sources */,
+ ....
+ 2200  				0160137D1EA9E966004C5B32 /* User.swift in Sources */,
+ 2201  				A23E63CC1E8E4B7400960B5F /* VTMagicController.m in Sources */,
+ 2202: 				010A33721E544673009DAAF2 /* LotteryCheckBoxButton.swift in Sources */,
+ 2203  				0127AE3B1E4AB8B60012C728 /* OrderBottomMultipleBarTermView.swift in Sources */,
+ 2204  				012CFB0E1EA7045C002394A3 /* ChargeBaseTableViewCell.swift in Sources */,
+ ....
+ 2212  				010A33741E545DFA009DAAF2 /* DLTMainViewController.swift in Sources */,
+ 2213  				0160137B1EA9E75F004C5B32 /* HTTPConstants.swift in Sources */,
+ 2214: 				CEE76CC91F1C9BC800406320 /* LotteryHtmlWebViewController.swift in Sources */,
+ 2215  				01E57EFB1EB334B200FCC68A /* BetService.swift in Sources */,
+ 2216  				0177B4CD1E2E52DC00D36720 /* TADotView.m in Sources */,
+ ....
+ 2220  				018B6FEC1ECEE047008A3EE3 /* RedPacketService.swift in Sources */,
+ 2221  				A23E639F1E8D309E00960B5F /* MobileTextFieldView.swift in Sources */,
+ 2222: 				011187871E95DFC0001B1B89 /* LotteryBaseScrollViewController.swift in Sources */,
+ 2223  				0127AE391E4843AE0012C728 /* NSBundle+APNumberPad.m in Sources */,
+ 2224  				0177B47F1E2E42F600D36720 /* AFURLRequestSerialization.m in Sources */,
+ 2225  				01A42A6A1E30AD070060B517 /* PopoverViewCell.m in Sources */,
+ 2226: 				A23E639D1E8D22E100960B5F /* LotteryBaseTextFieldView.swift in Sources */,
+ 2227: 				01B500611EADE190000E72F2 /* LotteryBaseTableView.swift in Sources */,
+ 2228  				016013791EA9DC7E004C5B32 /* AppContext.swift in Sources */,
+ 2229: 				0180B7A81EBAD0D400FF69B4 /* LotteryGuideViewController.swift in Sources */,
+ 2230  				0177B48B1E2E42F600D36720 /* MJRefreshBackNormalFooter.m in Sources */,
+ 2231: 				01B500971EB09CC1000E72F2 /* LotteryBaseTextField.swift in Sources */,
+ 2232  				0127ADF81E4465360012C728 /* TTTAttributedLabel.m in Sources */,
+ 2233  				A23E63AB1E8D3EF800960B5F /* VoiceVerifyButton.swift in Sources */,
+ ....
+ 2238  				A23E63A91E8D3C2000960B5F /* NewPasswordTextFieldView.swift in Sources */,
+ 2239  				0177B4B01E2E42F600D36720 /* UIRefreshControl+AFNetworking.m in Sources */,
+ 2240: 				0198FEB41EA079AE00E0E030 /* LotteryBaseAttributedLabel.swift in Sources */,
+ 2241  				015528121EA4945500293E0F /* AccountDetailTableViewController.swift in Sources */,
+ 2242: 				01E57F211EB36ED900FCC68A /* LotteryLaunchAdConfiguration.swift in Sources */,
+ 2243  				0177B4851E2E42F600D36720 /* MJRefreshFooter.m in Sources */,
+ 2244  				01DBECE11E9B8BA70005DEE5 /* BaseService.swift in Sources */,
+ 2245  				01E57F131EB36AF900FCC68A /* NSString+XHLaunchAd.m in Sources */,
+ 2246  				016013771EA9DBB6004C5B32 /* AppService.swift in Sources */,
+ 2247: 				A23E63911E8CA97B00960B5F /* LotteryCycleScrollView.swift in Sources */,
+ 2248  				01DBECEB1E9BAD3D0005DEE5 /* BaseModel.swift in Sources */,
+ 2249  				018B6FEA1ECED9B4008A3EE3 /* WithdrawService.swift in Sources */,
+ ....
+ 2266  				0177B47C1E2E42F600D36720 /* AFHTTPSessionManager.m in Sources */,
+ 2267  				A23E63CB1E8E4B7400960B5F /* VTContentView.m in Sources */,
+ 2268: 				0198FEB61EA07C5C00E0E030 /* LotteryRoutes.swift in Sources */,
+ 2269  				01DBED201E9BBC2D0005DEE5 /* NominalType.swift in Sources */,
+ 2270  				0177B4961E2E42F600D36720 /* MKAnnotationView+WebCache.m in Sources */,
+ ....
+ 2289  				0177B4911E2E42F600D36720 /* MJRefreshConst.m in Sources */,
+ 2290  				CEB4AE5F1F382A550042E07F /* FeedbackViewController.swift in Sources */,
+ 2291: 				016013731EA9AED7004C5B32 /* LotteryBaseEmptyButton.swift in Sources */,
+ 2292: 				0177B3FB1E2E427A00D36720 /* LotteryBaseTableViewController.swift in Sources */,
+ 2293  				0177B4A41E2E42F600D36720 /* UIImage+WebP.m in Sources */,
+ 2294  				01A42A691E30AD070060B517 /* PopoverView.m in Sources */,
+ ....
+ 2301  				01B500911EAF4990000E72F2 /* Follow.swift in Sources */,
+ 2302  				0195D6291EC1A33E00464E79 /* OrderListService.swift in Sources */,
+ 2303: 				A23E63A31E8D34F400960B5F /* LotteryBaseButton.swift in Sources */,
+ 2304  				016013811EA9F0B2004C5B32 /* LoginToken.swift in Sources */,
+ 2305  				010A337A1E55564C009DAAF2 /* JLRoutes.m in Sources */,
+ ....
+ 2309  				01A42A4A1E2F484A0060B517 /* SSQNormalViewController.swift in Sources */,
+ 2310  				0127AE461E4AFDB90012C728 /* OrderBottomMultipleBarMultipleView.swift in Sources */,
+ 2311: 				01ABACC51E5D3A810020067C /* LotteryTrianglePointLabel.swift in Sources */,
+ 2312  				0177B3FA1E2E427A00D36720 /* config.swift in Sources */,
+ 2313: 				0127AE161E462F3B0012C728 /* LotteryUtil.swift in Sources */,
+ 2314  				01E5BD421ECDB5900095A47F /* BankCardService.swift in Sources */,
+ 2315  				0177B47E1E2E42F600D36720 /* AFSecurityPolicy.m in Sources */,
+ 2316  				A23E63C91E8E4B7400960B5F /* UIScrollView+VTMagic.m in Sources */,
+ 2317  				01DBED251E9BBC2D0005DEE5 /* Protocol.swift in Sources */,
+ 2318: 				0177B3EE1E2E41E900D36720 /* LotteryTabBarViewController.swift in Sources */,
+ 2319  				018B6FE81ECED105008A3EE3 /* BillListService.swift in Sources */,
+ 2320  				A23E63AF1E8E2FEC00960B5F /* SettingsViewController.swift in Sources */,
+ ....
+ 2335  				A23E639B1E8D191300960B5F /* MobileLoginViewController.swift in Sources */,
+ 2336  				A23E63D01E8E57FF00960B5F /* MineTableViewCell.swift in Sources */,
+ 2337: 				01A42A521E2F5F2F0060B517 /* LotteryBaseBallView.swift in Sources */,
+ 2338  				01DBED241E9BBC2D0005DEE5 /* Properties.swift in Sources */,
+ 2339  				A23E638D1E8BC7EF00960B5F /* D11BaseBallBoardView.swift in Sources */,
+ ....
+ 2356  				0177B4921E2E42F600D36720 /* NSBundle+MJRefresh.m in Sources */,
+ 2357  				01DBED271E9BBC2D0005DEE5 /* Serializer+Legacy.swift in Sources */,
+ 2358: 				010A33531E4D6461009DAAF2 /* LotteryMainBaseDropDownButton.swift in Sources */,
+ 2359  				CE5DEA541F15F414002C9A74 /* ArticleListService.swift in Sources */,
+ 2360  				A23E63AD1E8D42A500960B5F /* ChangePasswordViewController.swift in Sources */,
+ ....
+ 2363  				018B6FE41ECECAF4008A3EE3 /* Game.swift in Sources */,
+ 2364  				0177B4A01E2E42F600D36720 /* SDWebImagePrefetcher.m in Sources */,
+ 2365: 				0177B4D31E2E54B900D36720 /* LotteryWebViewController.swift in Sources */,
+ 2366  				A23E63C71E8E4B7400960B5F /* UIButton+VTMagic.m in Sources */,
+ 2367  				0177B3EF1E2E41E900D36720 /* MineViewController.swift in Sources */,
+ ....
+ 2385  				0127ADF21E4460610012C728 /* OrderItemTableHeaderView.swift in Sources */,
+ 2386  				010A33631E51A8F8009DAAF2 /* SSQDantuoViewController.swift in Sources */,
+ 2387: 				01B5008F1EAF479B000E72F2 /* LotteryNum.swift in Sources */,
+ 2388  				A23E63A71E8D3A1E00960B5F /* VerifyTextFieldView.swift in Sources */,
+ 2389  				0177B4CB1E2E52DC00D36720 /* TAAbstractDotView.m in Sources */,
+ ....
+ 2394  				01A42A501E2F5D900060B517 /* MBProgressHUD.m in Sources */,
+ 2395  				0177B4D11E2E52DC00D36720 /* UIView+SDExtension.m in Sources */,
+ 2396: 				010A33591E4DA99A009DAAF2 /* LotteryMainBaseDropDownView.swift in Sources */,
+ 2397  				A23E63871E8BC52400960B5F /* DantuoIntroButton.swift in Sources */,
+ 2398  				012AD2351E4B3917004153BE /* SSQOrderBottomMultipleBarMainView.swift in Sources */,
+ ....
+ 2408  				010A33611E51A7FA009DAAF2 /* DPCDantuoViewController.swift in Sources */,
+ 2409  				010A336C1E5300D7009DAAF2 /* DLTOrderBottomMultipleBarView.swift in Sources */,
+ 2410: 				012CFB141EA8557E002394A3 /* LotteryBaseMagicViewController.swift in Sources */,
+ 2411  				010A33761E545F13009DAAF2 /* DLTDantuoViewController.swift in Sources */,
+ 2412  				01B500951EB04C5C000E72F2 /* MineTicketDetailViewController.swift in Sources */,
+ 2413  				0177B4931E2E42F600D36720 /* UIScrollView+MJExtension.m in Sources */,
+ 2414  				01DBED1F1E9BBC2D0005DEE5 /* Metadata.swift in Sources */,
+ 2415: 				012CFB1E1EA88CBE002394A3 /* LotteryBaseSegmentedControl.swift in Sources */,
+ 2416  				0177B4821E2E42F600D36720 /* MJRefreshAutoFooter.m in Sources */,
+ 2417  				A23E63951E8CE50B00960B5F /* NoticeBallListView.swift in Sources */,
+ ....
+ 2427  			buildActionMask = 2147483647;
+ 2428  			files = (
+ 2429: 				0177B3D01E2E416200D36720 /* LotteryTests.swift in Sources */,
+ 2430  			);
+ 2431  			runOnlyForDeploymentPostprocessing = 0;
+ ....
+ 2435  			buildActionMask = 2147483647;
+ 2436  			files = (
+ 2437: 				0177B3DB1E2E416200D36720 /* LotteryUITests.swift in Sources */,
+ 2438  			);
+ 2439  			runOnlyForDeploymentPostprocessing = 0;
+ ....
+ 2444  		0177B3CD1E2E416200D36720 /* PBXTargetDependency */ = {
+ 2445  			isa = PBXTargetDependency;
+ 2446: 			target = 0177B3B61E2E416200D36720 /* Lottery */;
+ 2447  			targetProxy = 0177B3CC1E2E416200D36720 /* PBXContainerItemProxy */;
+ 2448  		};
+ 2449  		0177B3D81E2E416200D36720 /* PBXTargetDependency */ = {
+ 2450  			isa = PBXTargetDependency;
+ 2451: 			target = 0177B3B61E2E416200D36720 /* Lottery */;
+ 2452  			targetProxy = 0177B3D71E2E416200D36720 /* PBXContainerItemProxy */;
+ 2453  		};
+ ....
+ 2576  				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+ 2577  				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+ 2578: 				CODE_SIGN_ENTITLEMENTS = Lottery/Lottery.entitlements;
+ 2579  				CODE_SIGN_IDENTITY = "iPhone Developer: Kun Cui (2GHQF2K9ER)";
+ 2580  				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+ ....
+ 2587  					"$(PROJECT_DIR)",
+ 2588  				);
+ 2589: 				INFOPLIST_FILE = Lottery/Info.plist;
+ 2590  				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+ 2591  				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+ ....
+ 2601  				PROVISIONING_PROFILE = "835f1547-fbf0-4e14-9c41-440325297025";
+ 2602  				PROVISIONING_PROFILE_SPECIFIER = DevelopmentHonghongcaiProfile;
+ 2603: 				SWIFT_OBJC_BRIDGING_HEADER = Lottery/bridging.h;
+ 2604  				SWIFT_VERSION = 3.0;
+ 2605  				TARGETED_DEVICE_FAMILY = 1;
+ ....
+ 2612  				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+ 2613  				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+ 2614: 				CODE_SIGN_ENTITLEMENTS = Lottery/Lottery.entitlements;
+ 2615  				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
+ 2616  				DEVELOPMENT_TEAM = 9AEJM9XP7K;
+ ....
+ 2622  					"$(PROJECT_DIR)",
+ 2623  				);
+ 2624: 				INFOPLIST_FILE = Lottery/Info.plist;
+ 2625  				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+ 2626  				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+ ....
+ 2636  				PROVISIONING_PROFILE = "678e3e4a-bc0c-4dfe-ba32-82d9544cd6de";
+ 2637  				PROVISIONING_PROFILE_SPECIFIER = HonghongcaiAppStoreProfile;
+ 2638: 				SWIFT_OBJC_BRIDGING_HEADER = Lottery/bridging.h;
+ 2639  				SWIFT_VERSION = 3.0;
+ 2640  				TARGETED_DEVICE_FAMILY = 1;
+ ....
+ 2648  				BUNDLE_LOADER = "$(TEST_HOST)";
+ 2649  				DEVELOPMENT_TEAM = 3PSWPS992B;
+ 2650: 				INFOPLIST_FILE = LotteryTests/Info.plist;
+ 2651  				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+ 2652: 				PRODUCT_BUNDLE_IDENTIFIER = com.LotteryTests;
+ 2653  				PRODUCT_NAME = "$(TARGET_NAME)";
+ 2654  				SWIFT_VERSION = 3.0;
+ 2655: 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Lottery.app/Lottery";
+ 2656  			};
+ 2657  			name = Debug;
+ ....
+ 2663  				BUNDLE_LOADER = "$(TEST_HOST)";
+ 2664  				DEVELOPMENT_TEAM = 3PSWPS992B;
+ 2665: 				INFOPLIST_FILE = LotteryTests/Info.plist;
+ 2666  				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+ 2667: 				PRODUCT_BUNDLE_IDENTIFIER = com.LotteryTests;
+ 2668  				PRODUCT_NAME = "$(TARGET_NAME)";
+ 2669  				SWIFT_VERSION = 3.0;
+ 2670: 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Lottery.app/Lottery";
+ 2671  			};
+ 2672  			name = Release;
+ ....
+ 2677  				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+ 2678  				DEVELOPMENT_TEAM = 3PSWPS992B;
+ 2679: 				INFOPLIST_FILE = LotteryUITests/Info.plist;
+ 2680  				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+ 2681: 				PRODUCT_BUNDLE_IDENTIFIER = com.LotteryUITests;
+ 2682  				PRODUCT_NAME = "$(TARGET_NAME)";
+ 2683  				SWIFT_VERSION = 3.0;
+ 2684: 				TEST_TARGET_NAME = Lottery;
+ 2685  			};
+ 2686  			name = Debug;
+ ....
+ 2691  				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+ 2692  				DEVELOPMENT_TEAM = 3PSWPS992B;
+ 2693: 				INFOPLIST_FILE = LotteryUITests/Info.plist;
+ 2694  				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+ 2695: 				PRODUCT_BUNDLE_IDENTIFIER = com.LotteryUITests;
+ 2696  				PRODUCT_NAME = "$(TARGET_NAME)";
+ 2697  				SWIFT_VERSION = 3.0;
+ 2698: 				TEST_TARGET_NAME = Lottery;
+ 2699  			};
+ 2700  			name = Release;
+ ....
+ 2703  
+ 2704  /* Begin XCConfigurationList section */
+ 2705: 		0177B3B21E2E416200D36720 /* Build configuration list for PBXProject "Lottery" */ = {
+ 2706  			isa = XCConfigurationList;
+ 2707  			buildConfigurations = (
+ ....
+ 2712  			defaultConfigurationName = Release;
+ 2713  		};
+ 2714: 		0177B3DF1E2E416200D36720 /* Build configuration list for PBXNativeTarget "Lottery" */ = {
+ 2715  			isa = XCConfigurationList;
+ 2716  			buildConfigurations = (
+ ....
+ 2721  			defaultConfigurationName = Release;
+ 2722  		};
+ 2723: 		0177B3E21E2E416200D36720 /* Build configuration list for PBXNativeTarget "LotteryTests" */ = {
+ 2724  			isa = XCConfigurationList;
+ 2725  			buildConfigurations = (
+ ....
+ 2730  			defaultConfigurationName = Release;
+ 2731  		};
+ 2732: 		0177B3E51E2E416200D36720 /* Build configuration list for PBXNativeTarget "LotteryUITests" */ = {
+ 2733  			isa = XCConfigurationList;
+ 2734  			buildConfigurations = (
+
+/Users/liuhong/Documents/work/git/loan-ios/Loan.xcodeproj/project.xcworkspace/contents.xcworkspacedata:
+    3     version = "1.0">
+    4     <FileRef
+    5:       location = "self:Lottery.xcodeproj">
+    6     </FileRef>
+    7  </Workspace>
+
+/Users/liuhong/Documents/work/git/loan-ios/Loan.xcodeproj/project.xcworkspace/xcuserdata/liuhong.xcuserdatad/UserInterfaceState.xcuserstate:
+    <binary>
+
+/Users/liuhong/Documents/work/git/loan-ios/Loan.xcodeproj/xcuserdata/liuhong.xcuserdatad/xcschemes/Lottery.xcscheme:
+   16                 BuildableIdentifier = "primary"
+   17                 BlueprintIdentifier = "0177B3B61E2E416200D36720"
+   18:                BuildableName = "Lottery.app"
+   19:                BlueprintName = "Lottery"
+   20:                ReferencedContainer = "container:Lottery.xcodeproj">
+   21              </BuildableReference>
+   22           </BuildActionEntry>
+   ..
+   34                 BuildableIdentifier = "primary"
+   35                 BlueprintIdentifier = "0177B3CA1E2E416200D36720"
+   36:                BuildableName = "LotteryTests.xctest"
+   37:                BlueprintName = "LotteryTests"
+   38:                ReferencedContainer = "container:Lottery.xcodeproj">
+   39              </BuildableReference>
+   40           </TestableReference>
+   ..
+   44                 BuildableIdentifier = "primary"
+   45                 BlueprintIdentifier = "0177B3D51E2E416200D36720"
+   46:                BuildableName = "LotteryUITests.xctest"
+   47:                BlueprintName = "LotteryUITests"
+   48:                ReferencedContainer = "container:Lottery.xcodeproj">
+   49              </BuildableReference>
+   50           </TestableReference>
+   ..
+   54              BuildableIdentifier = "primary"
+   55              BlueprintIdentifier = "0177B3B61E2E416200D36720"
+   56:             BuildableName = "Lottery.app"
+   57:             BlueprintName = "Lottery"
+   58:             ReferencedContainer = "container:Lottery.xcodeproj">
+   59           </BuildableReference>
+   60        </MacroExpansion>
+   ..
+   77              BuildableIdentifier = "primary"
+   78              BlueprintIdentifier = "0177B3B61E2E416200D36720"
+   79:             BuildableName = "Lottery.app"
+   80:             BlueprintName = "Lottery"
+   81:             ReferencedContainer = "container:Lottery.xcodeproj">
+   82           </BuildableReference>
+   83        </BuildableProductRunnable>
+   ..
+   96              BuildableIdentifier = "primary"
+   97              BlueprintIdentifier = "0177B3B61E2E416200D36720"
+   98:             BuildableName = "Lottery.app"
+   99:             BlueprintName = "Lottery"
+  100:             ReferencedContainer = "container:Lottery.xcodeproj">
+  101           </BuildableReference>
+  102        </BuildableProductRunnable>
+
+/Users/liuhong/Documents/work/git/loan-ios/Loan.xcodeproj/xcuserdata/liuhong.xcuserdatad/xcschemes/xcschememanagement.plist:
+    5  	<key>SchemeUserState</key>
+    6  	<dict>
+    7: 		<key>Lottery.xcscheme</key>
+    8  		<dict>
+    9  			<key>orderHint</key>
+
+337 matches across 5 files
